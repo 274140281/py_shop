@@ -41,7 +41,7 @@ sql mysql
 				-- 2.参数  账户 密码 时间 （ 邮箱 ，性别 ，生日 ，手机 ）
 		
 		代码 
-		
+		hello python
 		
 		
 		
